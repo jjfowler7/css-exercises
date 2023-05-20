@@ -13,3 +13,8 @@
 .font-24 {
     font-size: 24px;
 }
+
+#lime-green {
+    background-color: greenyellow;
+    font-weight: bold;
+}
