@@ -4,3 +4,8 @@
 .red-background {
     background-color: lightcoral;
 }
+
+#blue-font {
+    color: blue;
+    font-size: 36px;
+}
